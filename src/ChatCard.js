@@ -16,7 +16,7 @@ export default function ChatCard() {
                     <Badge colorScheme='green' mr={2}>Úzkost</Badge>
                 </Box>
 
-                <Text mb={2}>
+                <Text mb={2} color={"gray.500"}>
                     <Icon boxSize={3} as={FaUserAlt}/> 1/3
                 </Text>
 

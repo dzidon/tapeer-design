@@ -74,7 +74,7 @@ export default function Navbar() {
                             variant={'link'}
                             href={'#'}
                     >
-                        User123
+                        Můj profil
                     </Button>
 
                     <Button as={'a'}
